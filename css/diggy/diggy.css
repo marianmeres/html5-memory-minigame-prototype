@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    padding: 10px;
+    color: gray;
+}
+
+#gameBox {
+    width: 800px;
+    height: 540px;
+    position: relative;
+    margin: 0 auto;
+    background: url(bg.jpg) no-repeat;
+}
+
+canvas {
+    position: absolute;
+    left: 30px;
+    border: 0px solid white;
+}
+
+pre#debug {
+    font-family: monospace;
+    color: #444;
+    text-align: center;
+}
