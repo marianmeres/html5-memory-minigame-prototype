@@ -1,8 +1,13 @@
 # html5 canvas minigame prototype
 
 My little naive and trivial take on html5 canvas gaming from 2012...  
-working demo: http://marian.meres.sk/diggy-minigame/public/diggy.php
+
+Working demos: 
+
+http://marian.meres.sk/diggy-minigame/public/diggy.php  
+http://marian.meres.sk/diggy-minigame/public/sandbox.php
 
 
-Copyright: www.pixelfederation.com   
+Copyright: www.pixelfederation.com 
+
 Actual Diggy's Adventure game: https://portal.pixelfederation.com/en/diggysadventure/about/
