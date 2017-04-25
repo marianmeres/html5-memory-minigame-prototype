@@ -1,6 +1,6 @@
 # html5 canvas minigame prototype
 
-My little naive and trivial take on html5 canvas gaming from 2012...  
+My little take on html5 canvas gaming from 2012...  
 
 Working demos: 
 
